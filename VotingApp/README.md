@@ -1,0 +1,1 @@
+1. Run kubeclt create ns vote
